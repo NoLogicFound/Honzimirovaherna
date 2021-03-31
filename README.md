@@ -1,2 +1,2 @@
 # Honzimirovaherna
-čau
+Vítej smrade
