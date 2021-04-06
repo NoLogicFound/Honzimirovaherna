@@ -17,3 +17,5 @@ Záložky:
 
 [Návody](https://github.com/NoLogicFound/Honzimirovaherna/wiki)
 
+Děkuji za to že si se sem vůbec kouknul. čau
+
