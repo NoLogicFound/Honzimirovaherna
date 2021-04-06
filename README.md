@@ -10,6 +10,7 @@ https://honzimirovaherna.blogspot.com
 Pokud máš problém, otevři si ticket v #help-center nebo v záložce Issues
 
 Záložky: 
+
 [Problémy](https://github.com/NoLogicFound/Honzimirovaherna/issues)
 
 [Návrhy](https://github.com/NoLogicFound/Honzimirovaherna/pulls) 
