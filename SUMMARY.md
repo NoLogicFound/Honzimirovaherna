@@ -7,8 +7,8 @@
 
 ## Wiki
 
+* [Wiki](wiki/wiki.md)
 * [ArcadyCraft](wiki/arcadycraft/README.md)
   * [ArcadyCraft - Základní příručka](wiki/arcadycraft/arcadycraft-zakladni-prirucka.md)
   * [ArcadyCraft - Skilly a levely](wiki/arcadycraft/arcadycraft-skilly-a-levely.md)
-* [Home](wiki/untitled.md)
 
