@@ -4,6 +4,7 @@
 
 ## Budoucí plány
 
-* [ ] Upravit Ekonomiku
-* [ ] Vytvořit Adminshop
+* [x] ~~Upravit Ekonomiku~~
+* [x] ~~Vytvořit Adminshop~~
+* [ ] Optimalizovat server \(Lepší hosting?\)
 
